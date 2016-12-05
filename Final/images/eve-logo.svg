@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st2{stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:10;}
+	.st4{fill:none;}
+	.st5{font-family:'Adam';}
+	.st6{font-size:228.3558px;}
+	.st7{fill:#F1F2F2;}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<circle class="st0" cx="409.4" cy="314.7" r="290.3"/>
+<path class="st1" d="M409.4,314.7L407.3,605c-159.3-1.2-289.4-133.2-288.2-292.4c1.1-158.8,132.4-288.8,291.3-288.2L409.4,314.7z"/>
+<rect x="409.4" y="176" class="st2" width="254.8" height="260.4"/>
+<rect x="159.8" y="178.9" class="st3" width="239.5" height="257.5"/>
+<rect x="185" y="223.9" class="st4" width="323.8" height="191.7"/>
+<text transform="matrix(1.0221 0 0 1 184.9769 381.5068)" class="st5 st6">EV</text>
+<rect x="457.8" y="223.9" transform="matrix(-1 -4.392276e-11 4.392276e-11 -1 1092.823 633.6182)" class="st4" width="177.1" height="185.7"/>
+<text transform="matrix(-1.0221 0 0 1 634.9744 381.5068)" class="st7 st5 st6">E</text>
+<line class="st2" x1="409.4" y1="176" x2="409.4" y2="436.4"/>
+<text transform="matrix(1.0221 0 0 1 331.2151 388.3574)" class="st8 st5 st6">V</text>
+<line class="st9" x1="409.4" y1="24.3" x2="409.4" y2="605"/>
+</svg>
